@@ -42,7 +42,7 @@ Webcam
 Installation
 Clone the repository
 
-git clone https://github.com/Kumbarak007/video-mood-stress/tree/main
+git clone https://github.com/Kumbarak007/video-mood-stress
 
 cd VIDEO-MOOD-STRESS
 
