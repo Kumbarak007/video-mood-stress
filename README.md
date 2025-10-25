@@ -43,6 +43,7 @@ Installation
 Clone the repository
 
 git clone https://github.com/Kumbarak007/video-mood-stress/tree/main
+
 cd VIDEO-MOOD-STRESS
 
 Create a virtual environment (optional but recommended)
