@@ -1,0 +1,16 @@
+opencv-python
+deepface
+fastapi
+uvicorn
+numpy
+streamlit
+requests
+plotly
+
+streamlit==1.36.0
+opencv-python==4.9.0.80
+numpy==1.26.4
+tensorflow==2.20.0
+tf-keras>=2.20.0
+deepface==0.0.79
+
