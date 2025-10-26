@@ -10,32 +10,38 @@ Interactive dashboard built with Streamlit
 
 Modular, well-documented Python code
 
-Folder Structure
+## Folder Structure
+
+```
 VIDEO-MOOD-STRESS/
+│
 ├── backend/
 │   ├── ml/
 │   │   ├── emotion_model.py
 │   │   ├── face_detector.py
 │   │   ├── stress_score.py
 │   │   └── __init__.py
-│   └── utils/
-│       └── video_utils.py
+│   ├── utils/
+│   │   └── video_utils.py
 │   └── main.py
+│
 ├── frontend/
 │   ├── components/
 │   │   ├── emotion_chart.py
 │   │   ├── live_feed.py
 │   │   └── stress_meter.py
 │   └── app.py
+│
 ├── models/
 │   └── emotion_model.h5
+│
 ├── requirements.txt
-├── README.md
-
-
+└── README.md
+```
+```
 
 Requirements
-Python 3.11 or 3.12 (Not 3.13)
+Python 3.11 or 3.12 
 Webcam
 
 Installation
