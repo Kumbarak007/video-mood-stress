@@ -11,7 +11,6 @@ Interactive dashboard built with Streamlit
 Modular, well-documented Python code
 
 Folder Structure
-text
 VIDEO-MOOD-STRESS/
 ├── backend/
 │   ├── ml/
